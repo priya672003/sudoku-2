@@ -35,9 +35,11 @@ Calculate the time taken to solve the sudoku.
 
 ## Program:
 
-DEVELOPED BY : PRIYADARSHINI R
+### DEVELOPED BY
 
-REGISTER NUMBER : 212220230038
+### NAME:  PRIYADARSHINI R
+
+### REG.NO :  212220230038
 
 ```python3
 
